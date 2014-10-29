@@ -1,7 +1,6 @@
 About
 =====
 This is 3D model of missile's flying.
-
 Project's tools
 ===============
 - IDE: MS VS10
